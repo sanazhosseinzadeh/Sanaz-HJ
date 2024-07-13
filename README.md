@@ -78,7 +78,6 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ErfanShm's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)

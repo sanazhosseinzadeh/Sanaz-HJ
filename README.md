@@ -1,6 +1,12 @@
-### Hi there, I'm [Erfan_shafiee_Moghaddam](https://github.com/ErfanShm) 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align='center'> Hi there, I'm Erfan shafiee Moghaddam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
 
 I completed my computer engineering degree from Allameh Tabatabie University in Iran. Apart from that, I am a junior ML developer who loves exploring topics such as Machine Learning, Data Science, Productivity. I also enjoy contributing to open-source projects.
+
+<img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 **My Research Interest**:
 
@@ -20,7 +26,7 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 - machine learning projects(development or research),
 - research internships and
 
-## Skills:
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 #### Languages:
 
@@ -63,7 +69,8 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) &nbsp;
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
-## Connect with me:
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align = "center">
 
@@ -75,8 +82,13 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />]()
 </p>
 
+<!--- stats(start) -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&theme=buefy&hide_border=true" alt="ErfanShm's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<!--- stats(End) -->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 
 ----

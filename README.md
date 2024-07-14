@@ -72,7 +72,7 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/yourusername) &nbsp;
 [<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](linkedin.com/in/erfan-shafiee-moghadam-) &nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@yourusername) &nbsp;
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_.erfnshmm/) &nbsp;
 

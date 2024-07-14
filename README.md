@@ -1,11 +1,16 @@
+<!-- Top Image -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Heading -->
 <h1 align='center'> Hi there, I'm Erfan Shafiee Moghaddam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
+<!-- Introduction -->
 I completed my computer engineering degree from Allameh Tabatabie University in Iran. Currently, I'm a junior ML developer passionate about exploring topics such as Machine Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
 
+<!-- GitHub header image -->
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<!-- Research Interests -->
 **My Research Interests:**
 
 - Text Classification
@@ -18,14 +23,17 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 - Language Generation
 - Chatbots
 
+<!-- Collaboration -->
 **I am open to:**
 
 - Collaboration work
 - Machine learning projects (development or research)
 - Research internships
 
+<!-- Skills Heading -->
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
+<!-- Programming Languages -->
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +43,7 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%2343853D.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+<!-- Machine Learning and Deep Learning -->
 #### ML/DL:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,17 +56,20 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230076D6.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
+<!-- Databases -->
 #### Database:
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!-- Tools and Technologies -->
 #### Tools and Technologies:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+<!-- IDEs -->
 #### IDEs:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -65,25 +77,28 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
+<!-- Connect with me Heading -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+<!-- Connect with me links -->
 <p align="center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/yourusername) &nbsp;
-[<img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@yourusername) &nbsp;
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_.erfnshmm/) &nbsp;
+[<!-- Kaggle --> <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/yourusername) &nbsp;
+[<!-- Website --> <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
+[<!-- Twitter --> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
+[<!-- LinkedIn --> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;
+[<!-- Medium --> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@erfanshm12) &nbsp;
+[<!-- Instagram --> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_.erfnshmm/) &nbsp;
 
 </p>
 
-
+<!-- Stats Section -->
 <!--- stats(start) -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&theme=buefy&hide_border=true" alt="ErfanShm's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--- stats(End) -->
 
+<!-- Bottom Image -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 

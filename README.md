@@ -5,13 +5,15 @@
 <h1 align='center'> Hi there, I'm Erfan Shafiee Moghaddam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <!-- Introduction -->
-I completed my computer engineering degree from Allameh Tabatabie University in Iran. Currently, I'm a junior ML developer passionate about exploring topics such as Machine Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
+I completed my computer engineering degree from Allameh Tabatabie University in Iran.
+
+Currently, I'm a junior ML developer passionate about exploring topics such as Machine Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
 
 <!-- GitHub header image -->
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- Research Interests -->
-**My Research Interests:**
+**My Research Interests** 📚:
 
 - Text Classification
 - Named Entity Recognition (NER)
@@ -24,7 +26,7 @@ I completed my computer engineering degree from Allameh Tabatabie University in 
 - Chatbots
 
 <!-- Collaboration -->
-**I am open to:**
+**I am open to** 🌐:
 
 - Collaboration work
 - Machine learning projects (development or research)

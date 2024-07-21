@@ -85,7 +85,7 @@ Currently, I'm a junior ML developer passionate about exploring topics such as M
 <!-- Connect with me links -->
 <p align="center">
 
-[<!-- Kaggle --> <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/yourusername) &nbsp;
+[<!-- Kaggle --> <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/erfanshafieeaa) &nbsp;
 [<!-- Website --> <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
 [<!-- Twitter --> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
 [<!-- LinkedIn --> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;

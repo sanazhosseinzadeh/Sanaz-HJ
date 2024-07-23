@@ -109,9 +109,14 @@
 <div align='left'>
 
 <ul>
-
 <li>
-<a href="https://linkedin.com/in/sanazhosseinzadeh" target="_blank">
+<a href="https://www.instagram.com/yourprofile" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px; background-color: purple;"/>
+</a>
+</li>
+<br>	
+<li>
+<a href="https://linkedin.com/in/sanaz-hossein-zadeh" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=LinkedIn style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -119,7 +124,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/hjsarvenaz" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -131,7 +136,12 @@
 <img src="https://img.shields.io/badge/-Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+<br>
+<li>
+<a href="https://www.kaggle.com/sanazhosseinzadeh" target="_blank">
+<img src="https://img.shields.io/badge/-Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;"/>
+</a>
+</li>
 </ul>
 </div>
 
